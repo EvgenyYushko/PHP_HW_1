@@ -58,7 +58,7 @@ showInterval(0, 10);
 $content = '<h1>Заголовок статьи</h1><p>Текст какой-то статьи</p>';
 $header = '<h1>Меню сайта</h1>';
 $sidebarcontent = '<span>Боковое меню</span>';
-$footer = 'footer сайта';
+$footer = 'footer нашего сайта сайта';
 
 require __DIR__ . '/header.php';
 require __DIR__ . '/sidebar.php';
